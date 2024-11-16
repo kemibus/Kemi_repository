@@ -20,7 +20,7 @@ library(pdftools)
 
 ```{r}
 #Link to source data on Nexis Uni
-#https://advance.lexis.com/search/?pdmfid=1519360&crid=716386a1-0cd2-490a-a573-0e44d17b4766&pdsearchtype=SearchBox&pdtypeofsearch=searchboxclick&pdstartin=&pdsearchterms=dele+giwa+%22journalist%22&pdtimeline=&pdpsf=&pdquerytemplateid=&pdsf=&ecomp=wxbhkkk&prid=f92d2b38-b9b0-4a1d-8fa8-9906ed4cb9fc `
+
 ```
 
 
